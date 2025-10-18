@@ -274,5 +274,3 @@ It should not be used for production or security-critical environments.
 
 ---
 
-Would you like me to **add a diagram (handshake + encrypted data flow)** in Markdown (ASCII or Mermaid) for visual clarity? It would make your README look even more professional on GitHub.
-```
