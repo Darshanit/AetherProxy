@@ -271,6 +271,3 @@ It should not be used for production or security-critical environments.
 > — Designed for learners who want to go beyond `https://` and explore how encryption really works under the hood.
 
 ```
-
----
-
